@@ -129,6 +129,8 @@ The decode algorithm is ported from [delugeclient](https://github.com/bfredl/del
 
 ## Acknowledgments
 
+- Github Copilot, who wrote all the code...
+
 - [DEx (Deluge Extensions)](https://github.com/silicakes/deluge-extensions) — web-based Deluge display mirror
 - [delugeclient](https://github.com/bfredl/delugeclient) — original SysEx decode implementation
 - [DelugeDisplay (macOS)](https://github.com/douglas-carmichael/DelugeDisplay) — native Mac display mirror
